@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @boti913
+- 👀 I’m interested in code
+- 🌱 I’m currently learning C# and phython
+- 📫 How to reach me on Discord! FLH_boti913#4620
